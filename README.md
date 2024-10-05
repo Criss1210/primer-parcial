@@ -1,4 +1,4 @@
 
-# Primer Prcial de DevOps
+# Primer Parcial de DevOps
 
 ## url del despliegue: `https://cristalo.surge.sh/`
